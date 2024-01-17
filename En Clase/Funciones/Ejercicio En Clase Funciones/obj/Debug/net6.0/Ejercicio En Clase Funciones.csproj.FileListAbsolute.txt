@@ -1,0 +1,15 @@
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\bin\Debug\net6.0\Ejercicio En Clase Funciones.exe
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\bin\Debug\net6.0\Ejercicio En Clase Funciones.deps.json
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\bin\Debug\net6.0\Ejercicio En Clase Funciones.runtimeconfig.json
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\bin\Debug\net6.0\Ejercicio En Clase Funciones.dll
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\bin\Debug\net6.0\Ejercicio En Clase Funciones.pdb
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\obj\Debug\net6.0\Ejercicio En Clase Funciones.csproj.AssemblyReference.cache
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\obj\Debug\net6.0\Ejercicio En Clase Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\obj\Debug\net6.0\Ejercicio En Clase Funciones.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\obj\Debug\net6.0\Ejercicio En Clase Funciones.AssemblyInfo.cs
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\obj\Debug\net6.0\Ejercicio En Clase Funciones.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\obj\Debug\net6.0\Ejercicio En Clase Funciones.dll
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\obj\Debug\net6.0\refint\Ejercicio En Clase Funciones.dll
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\obj\Debug\net6.0\Ejercicio En Clase Funciones.pdb
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\obj\Debug\net6.0\Ejercicio En Clase Funciones.genruntimeconfig.cache
+C:\Users\victo\Documents\Programacion I\En Clase\Funciones\Ejercicio En Clase Funciones\obj\Debug\net6.0\ref\Ejercicio En Clase Funciones.dll
