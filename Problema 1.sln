@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema 1", "Ejercicios1\P
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problema 2", "Problema 2", "{A9CDF580-64B4-4CDA-98F7-12ADF9C45B54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema 2", "Ejercicios1\Problema 2\Problema 2\Problema 2.csproj", "{BC65780C-E085-4358-B486-76AAD54DD6BE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema  2", "Ejercicios1\Problema  2\Problema  2.csproj", "{65EF9EF7-D330-4734-BE94-45FED8941322}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema 3", "Ejercicios1\Problema 3\Problema 3.csproj", "{A0190AC7-AC16-4D70-8163-6391C909541D}"
@@ -34,6 +32,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Funciones", "Funciones", "{E4FBBDF9-4F7B-45CB-A411-EE8B2A730D1D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio En Clase Funciones", "En Clase\Funciones\Ejercicio En Clase Funciones\Ejercicio En Clase Funciones.csproj", "{F6361E63-AA21-4402-BEBA-A4651FF39D69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tarea De Funciones", "Tarea De Funciones", "{47515A27-027D-4E98-AC71-CE7D7CEC2028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea De Funciones", "Tarea De Funciones\Tarea De Funciones\Tarea De Funciones.csproj", "{00A64660-0448-4335-A1F0-BED87B59DCF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -92,6 +94,10 @@ Global
 		{F6361E63-AA21-4402-BEBA-A4651FF39D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6361E63-AA21-4402-BEBA-A4651FF39D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6361E63-AA21-4402-BEBA-A4651FF39D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A64660-0448-4335-A1F0-BED87B59DCF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A64660-0448-4335-A1F0-BED87B59DCF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A64660-0448-4335-A1F0-BED87B59DCF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A64660-0448-4335-A1F0-BED87B59DCF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{092B2A0B-0053-470E-A19B-A117ED88C039} = {4E70878A-6F1D-4118-9651-15CB65C72E23}
@@ -108,5 +114,6 @@ Global
 		{2B33471F-0A13-42C6-B92C-2CA2B6B413D7} = {4E70878A-6F1D-4118-9651-15CB65C72E23}
 		{E4FBBDF9-4F7B-45CB-A411-EE8B2A730D1D} = {F12390EF-999A-4549-AF45-CEB2A9F91852}
 		{F6361E63-AA21-4402-BEBA-A4651FF39D69} = {E4FBBDF9-4F7B-45CB-A411-EE8B2A730D1D}
+		{00A64660-0448-4335-A1F0-BED87B59DCF1} = {47515A27-027D-4E98-AC71-CE7D7CEC2028}
 	EndGlobalSection
 EndGlobal
