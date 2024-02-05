@@ -1,0 +1,15 @@
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\bin\Debug\net8.0\Tarea De Funciones.exe
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\bin\Debug\net8.0\Tarea De Funciones.deps.json
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\bin\Debug\net8.0\Tarea De Funciones.runtimeconfig.json
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\bin\Debug\net8.0\Tarea De Funciones.dll
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\bin\Debug\net8.0\Tarea De Funciones.pdb
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\obj\Debug\net8.0\Tarea De Funciones.GeneratedMSBuildEditorConfig.editorconfig
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\obj\Debug\net8.0\Tarea De Funciones.AssemblyInfoInputs.cache
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\obj\Debug\net8.0\Tarea De Funciones.AssemblyInfo.cs
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\obj\Debug\net8.0\Tarea De Funciones.csproj.CoreCompileInputs.cache
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\obj\Debug\net8.0\Tarea De Funciones.sourcelink.json
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\obj\Debug\net8.0\Tarea De Funciones.dll
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\obj\Debug\net8.0\refint\Tarea De Funciones.dll
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\obj\Debug\net8.0\Tarea De Funciones.pdb
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\obj\Debug\net8.0\Tarea De Funciones.genruntimeconfig.cache
+F:\Universidad\Programacion I\Tarea De Funciones\Tarea De Funciones\obj\Debug\net8.0\ref\Tarea De Funciones.dll
