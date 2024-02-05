@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\Documents\\Programacion I\\Ejercicios1\\Problema 10\\Problema 10.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejercicios1\\Problema 10\\Problema 10.csproj",
       "projectName": "Problema 10",
-      "projectPath": "C:\\Users\\victo\\Documents\\Programacion I\\Ejercicios1\\Problema 10\\Problema 10.csproj",
+      "projectPath": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejercicios1\\Problema 10\\Problema 10.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\Documents\\Programacion I\\Ejercicios1\\Problema 10\\obj\\",
+      "outputPath": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejercicios1\\Problema 10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"

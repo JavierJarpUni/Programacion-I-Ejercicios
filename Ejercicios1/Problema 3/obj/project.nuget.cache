@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "T9myeKL6Pui8ApoxSpyFNGsAsigeZIXW8l/xR4Fbv3DrC3a4tL26bJ8Vqd4RgO44eWyabYp3djPDUgY91eMBaQ==",
+  "dgSpecHash": "q1iQaiV1RsPZBBs0cVk4N/D3P9t6XRZxlKr2/ynFtOfiaeGlhk4RCXeYTBIESN9w9ebxwm2NLJqXs9kfnsC1Uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\Documents\\Programacion I\\Ejercicios1\\Problema 3\\Problema 3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejercicios1\\Problema 3\\Problema 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victo\\Documents\\Programacion I\\Ejercicios1\\Problema  2\\Problema  2.csproj": {}
+    "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejercicios1\\Problema  2\\Problema  2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victo\\Documents\\Programacion I\\Ejercicios1\\Problema  2\\Problema  2.csproj": {
+    "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejercicios1\\Problema  2\\Problema  2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\Documents\\Programacion I\\Ejercicios1\\Problema  2\\Problema  2.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejercicios1\\Problema  2\\Problema  2.csproj",
         "projectName": "Problema  2",
-        "projectPath": "C:\\Users\\victo\\Documents\\Programacion I\\Ejercicios1\\Problema  2\\Problema  2.csproj",
+        "projectPath": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejercicios1\\Problema  2\\Problema  2.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\Documents\\Programacion I\\Ejercicios1\\Problema  2\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejercicios1\\Problema  2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,16 +43,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\bin\Debug\net8.0\Arreglos En Clase.exe
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\bin\Debug\net8.0\Arreglos En Clase.deps.json
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\bin\Debug\net8.0\Arreglos En Clase.runtimeconfig.json
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\bin\Debug\net8.0\Arreglos En Clase.dll
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\bin\Debug\net8.0\Arreglos En Clase.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\obj\Debug\net8.0\Arreglos En Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\obj\Debug\net8.0\Arreglos En Clase.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\obj\Debug\net8.0\Arreglos En Clase.AssemblyInfo.cs
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\obj\Debug\net8.0\Arreglos En Clase.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\obj\Debug\net8.0\Arreglos En Clase.sourcelink.json
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\obj\Debug\net8.0\Arreglos En Clase.dll
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\obj\Debug\net8.0\refint\Arreglos En Clase.dll
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\obj\Debug\net8.0\Arreglos En Clase.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\obj\Debug\net8.0\Arreglos En Clase.genruntimeconfig.cache
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Arreglos\Arreglos En Clase\obj\Debug\net8.0\ref\Arreglos En Clase.dll

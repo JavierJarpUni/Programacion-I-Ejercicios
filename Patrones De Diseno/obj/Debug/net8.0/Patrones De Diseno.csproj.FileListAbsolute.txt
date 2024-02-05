@@ -1,0 +1,15 @@
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\bin\Debug\net8.0\Patrones De Diseno.exe
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\bin\Debug\net8.0\Patrones De Diseno.deps.json
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\bin\Debug\net8.0\Patrones De Diseno.runtimeconfig.json
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\bin\Debug\net8.0\Patrones De Diseno.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\bin\Debug\net8.0\Patrones De Diseno.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\obj\Debug\net8.0\Patrones De Diseno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\obj\Debug\net8.0\Patrones De Diseno.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\obj\Debug\net8.0\Patrones De Diseno.AssemblyInfo.cs
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\obj\Debug\net8.0\Patrones De Diseno.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\obj\Debug\net8.0\Patrones De Diseno.sourcelink.json
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\obj\Debug\net8.0\Patrones De Diseno.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\obj\Debug\net8.0\refint\Patrones De Diseno.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\obj\Debug\net8.0\Patrones De Diseno.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\obj\Debug\net8.0\Patrones De Diseno.genruntimeconfig.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Patrones De Diseno\obj\Debug\net8.0\ref\Patrones De Diseno.dll
