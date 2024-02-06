@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\victo\\.nuget\\packages\\": {}
+    "C:\\Users\\XPS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Tarea De Arreglos\\Ejercicio 3\\Ejercicio 3.csproj",
+      "projectUniqueName": "F:\\Universidad\\Programacion I\\Tarea De Arreglos\\Ejercicio 3\\Ejercicio 3.csproj",
       "projectName": "Ejercicio 3",
-      "projectPath": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Tarea De Arreglos\\Ejercicio 3\\Ejercicio 3.csproj",
-      "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Tarea De Arreglos\\Ejercicio 3\\obj\\",
+      "projectPath": "F:\\Universidad\\Programacion I\\Tarea De Arreglos\\Ejercicio 3\\Ejercicio 3.csproj",
+      "packagesPath": "C:\\Users\\XPS\\.nuget\\packages\\",
+      "outputPath": "F:\\Universidad\\Programacion I\\Tarea De Arreglos\\Ejercicio 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

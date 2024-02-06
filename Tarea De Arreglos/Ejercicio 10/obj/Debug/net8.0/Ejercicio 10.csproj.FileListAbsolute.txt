@@ -1,0 +1,15 @@
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\bin\Debug\net8.0\Ejercicio 10.exe
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\bin\Debug\net8.0\Ejercicio 10.deps.json
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\bin\Debug\net8.0\Ejercicio 10.runtimeconfig.json
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\bin\Debug\net8.0\Ejercicio 10.dll
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\bin\Debug\net8.0\Ejercicio 10.pdb
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.GeneratedMSBuildEditorConfig.editorconfig
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.AssemblyInfoInputs.cache
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.AssemblyInfo.cs
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.csproj.CoreCompileInputs.cache
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.sourcelink.json
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.dll
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\obj\Debug\net8.0\refint\Ejercicio 10.dll
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.pdb
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.genruntimeconfig.cache
+F:\Universidad\Programacion I\Tarea De Arreglos\Ejercicio 10\obj\Debug\net8.0\ref\Ejercicio 10.dll
