@@ -1,0 +1,1 @@
+﻿PracticaPOO programa = new PracticaPOO();
