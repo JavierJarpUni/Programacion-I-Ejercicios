@@ -1,0 +1,15 @@
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\bin\Debug\net8.0\Representar Diferentes Animales.exe
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\bin\Debug\net8.0\Representar Diferentes Animales.deps.json
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\bin\Debug\net8.0\Representar Diferentes Animales.runtimeconfig.json
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\bin\Debug\net8.0\Representar Diferentes Animales.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\bin\Debug\net8.0\Representar Diferentes Animales.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\obj\Debug\net8.0\Representar Diferentes Animales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\obj\Debug\net8.0\Representar Diferentes Animales.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\obj\Debug\net8.0\Representar Diferentes Animales.AssemblyInfo.cs
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\obj\Debug\net8.0\Representar Diferentes Animales.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\obj\Debug\net8.0\Representar Diferentes Animales.sourcelink.json
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\obj\Debug\net8.0\Representar Diferentes Animales.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\obj\Debug\net8.0\refint\Representar Diferentes Animales.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\obj\Debug\net8.0\Representar Diferentes Animales.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\obj\Debug\net8.0\Representar Diferentes Animales.genruntimeconfig.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Representar Diferentes Animales\obj\Debug\net8.0\ref\Representar Diferentes Animales.dll

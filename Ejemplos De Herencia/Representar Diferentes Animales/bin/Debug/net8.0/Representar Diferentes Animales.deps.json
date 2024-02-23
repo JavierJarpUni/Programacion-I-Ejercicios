@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Representar Diferentes Animales/1.0.0": {
+        "runtime": {
+          "Representar Diferentes Animales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Representar Diferentes Animales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\bin\Debug\net8.0\Dispositivos Electronicos.exe
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\bin\Debug\net8.0\Dispositivos Electronicos.deps.json
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\bin\Debug\net8.0\Dispositivos Electronicos.runtimeconfig.json
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\bin\Debug\net8.0\Dispositivos Electronicos.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\bin\Debug\net8.0\Dispositivos Electronicos.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\obj\Debug\net8.0\Dispositivos Electronicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\obj\Debug\net8.0\Dispositivos Electronicos.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\obj\Debug\net8.0\Dispositivos Electronicos.AssemblyInfo.cs
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\obj\Debug\net8.0\Dispositivos Electronicos.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\obj\Debug\net8.0\Dispositivos Electronicos.sourcelink.json
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\obj\Debug\net8.0\Dispositivos Electronicos.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\obj\Debug\net8.0\refint\Dispositivos Electronicos.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\obj\Debug\net8.0\Dispositivos Electronicos.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\obj\Debug\net8.0\Dispositivos Electronicos.genruntimeconfig.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Dispositivos Electronicos\obj\Debug\net8.0\ref\Dispositivos Electronicos.dll

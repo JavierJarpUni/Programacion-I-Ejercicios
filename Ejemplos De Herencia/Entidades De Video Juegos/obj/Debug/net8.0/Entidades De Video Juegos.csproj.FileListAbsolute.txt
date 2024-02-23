@@ -1,0 +1,15 @@
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\bin\Debug\net8.0\Entidades De Video Juegos.exe
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\bin\Debug\net8.0\Entidades De Video Juegos.deps.json
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\bin\Debug\net8.0\Entidades De Video Juegos.runtimeconfig.json
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\bin\Debug\net8.0\Entidades De Video Juegos.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\bin\Debug\net8.0\Entidades De Video Juegos.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\obj\Debug\net8.0\Entidades De Video Juegos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\obj\Debug\net8.0\Entidades De Video Juegos.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\obj\Debug\net8.0\Entidades De Video Juegos.AssemblyInfo.cs
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\obj\Debug\net8.0\Entidades De Video Juegos.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\obj\Debug\net8.0\Entidades De Video Juegos.sourcelink.json
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\obj\Debug\net8.0\Entidades De Video Juegos.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\obj\Debug\net8.0\refint\Entidades De Video Juegos.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\obj\Debug\net8.0\Entidades De Video Juegos.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\obj\Debug\net8.0\Entidades De Video Juegos.genruntimeconfig.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Ejemplos De Herencia\Entidades De Video Juegos\obj\Debug\net8.0\ref\Entidades De Video Juegos.dll
