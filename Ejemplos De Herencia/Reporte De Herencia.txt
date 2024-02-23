@@ -1,0 +1,21 @@
+1. Herencia Simple
+Definición y Uso: Explica qué es la herencia simple, donde una clase hija hereda directamente de una clase padre.
+Ventajas y Desventajas: Discute cómo la herencia simple promueve la reutilización de código y la relación jerárquica entre clases, así como los posibles desafíos, como el acoplamiento fuerte.
+2. Herencia Múltiple
+Definición y Uso: Describe la herencia múltiple, donde una clase puede heredar de más de una clase padre, algo soportado por lenguajes como Python.
+Ventajas y Desventajas: Analiza las complejidades y beneficios de la herencia múltiple, incluyendo el problema del diamante y cómo algunos lenguajes lo resuelven.
+3. Herencia Multinivel
+Definición y Uso: Explica la herencia multinivel, una jerarquía de clases donde una clase hereda de una subclase, formando una cadena de herencia.
+Ejemplos Prácticos: Proporciona ejemplos de casos de uso y cómo esto puede ser útil para organizar mejor el código y la lógica de la aplicación.
+4. Herencia Jerárquica
+Definición y Uso: Define la herencia jerárquica, donde varias clases hijas heredan de una sola clase padre.
+Ejemplos y Aplicaciones: Discute cómo este tipo de herencia permite diversificar las funcionalidades partiendo de una base común.
+5. Herencia Híbrida
+Definición y Uso: Combina dos o más tipos de herencia, como múltiple y multinivel, para formar una estructura híbrida.
+Ventajas, Desventajas y Soluciones: Examina los retos de implementar herencia híbrida en diferentes lenguajes de programación y cómo estos lenguajes manejan las complejidades asociadas.
+6. Implementación de la Herencia en Diferentes Lenguajes de Programación
+Comparación entre Lenguajes: Presenta ejemplos de cómo diferentes lenguajes de programación implementan la herencia (e.g., Java, C++, Python).
+Casos de Uso Específicos: Analiza casos de uso reales donde la herencia se aplica para resolver problemas de diseño de software.
+7. Buenas Prácticas y Patrones de Diseño
+Principio de Sustitución de Liskov: Explica este principio y cómo afecta el diseño de una jerarquía de herencia.
+Patrones de Diseño Relacionados con la Herencia: Introduce patrones de diseño que utilizan la herencia, como el patrón Decorador y el patrón Estrategia.
