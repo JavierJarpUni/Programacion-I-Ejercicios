@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Insertar En Una Base De Datos.props" />
+</Project>

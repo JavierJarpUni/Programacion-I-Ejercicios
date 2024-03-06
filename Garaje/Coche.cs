@@ -11,10 +11,10 @@ public class Coche {
         Console.WriteLine($"Tienes un {marca}");
     }
 
-    public string GetMarca() => marca;
-    public Motor GetMotor() => motor;
-    public string GetModelo() => modelo;
-    public double GetAverias() => averias;
+    public string GetMarca() => this.marca;
+    public Motor GetMotor() => this.motor;
+    public string GetModelo() => this.modelo;
+    public double GetAverias() => this.averias;
 
     public void acumularAveria(double valor){
         this.averias += valor;

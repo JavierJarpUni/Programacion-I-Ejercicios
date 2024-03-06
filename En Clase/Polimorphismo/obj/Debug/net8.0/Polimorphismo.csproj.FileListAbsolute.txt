@@ -1,0 +1,15 @@
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\bin\Debug\net8.0\Polimorphismo.exe
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\bin\Debug\net8.0\Polimorphismo.deps.json
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\bin\Debug\net8.0\Polimorphismo.runtimeconfig.json
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\bin\Debug\net8.0\Polimorphismo.dll
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\bin\Debug\net8.0\Polimorphismo.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\obj\Debug\net8.0\Polimorphismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\obj\Debug\net8.0\Polimorphismo.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\obj\Debug\net8.0\Polimorphismo.AssemblyInfo.cs
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\obj\Debug\net8.0\Polimorphismo.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\obj\Debug\net8.0\Polimorphismo.sourcelink.json
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\obj\Debug\net8.0\Polimorphismo.dll
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\obj\Debug\net8.0\refint\Polimorphismo.dll
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\obj\Debug\net8.0\Polimorphismo.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\obj\Debug\net8.0\Polimorphismo.genruntimeconfig.cache
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Polimorphismo\obj\Debug\net8.0\ref\Polimorphismo.dll
