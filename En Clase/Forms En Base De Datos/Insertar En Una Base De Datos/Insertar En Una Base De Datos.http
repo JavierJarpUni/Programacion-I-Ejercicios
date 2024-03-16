@@ -1,0 +1,6 @@
+@Insertar_En_Una_Base_De_Datos_HostAddress = http://localhost:5109
+
+GET {{Insertar_En_Una_Base_De_Datos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

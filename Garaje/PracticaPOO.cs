@@ -42,6 +42,6 @@ public class PracticaPOO {
         garaje.DevolverCoche();
 
         Console.WriteLine($"Informacion Del Toyota:\n Motor:\n  Aceite: {toyota.GetMotor().GetAceite()}\n  Potencia: {toyota.GetMotor().GetAceite()}\n Marca: {toyota.GetMarca()}\n Modelo: {toyota.GetModelo()}");
-        Console.WriteLine($"Informacion Del Suzuki:\n Motor:\n  Aceite: {suzuki.GetMotor()}\n  Potencia: {suzuki.GetMotor().GetPotencia()}\n Marca: {suzuki.GetMarca()}\n Modelo: {suzuki.GetModelo()}");
+        Console.WriteLine($"Informacion Del Suzuki:\n Motor:\n  Aceite: {suzuki.GetMotor().GetAceite()}\n  Potencia: {suzuki.GetMotor().GetPotencia()}\n Marca: {suzuki.GetMarca()}\n Modelo: {suzuki.GetModelo()}");
     }
 }
