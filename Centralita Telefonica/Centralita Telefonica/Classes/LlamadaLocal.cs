@@ -6,7 +6,7 @@ public class LlamadaLocal : Llamada{
         this.numDestino = numDestino;
         this.duracion = (double) duracion;
     }
-    public override double calcularPrecio()
+    public override double CalcularPrecio()
     {
         this.precio = 0.15 * this.duracion;
         return this.precio;
@@ -14,6 +14,6 @@ public class LlamadaLocal : Llamada{
 
     public override string ToString()
     {
-        return $"Llamada Local\n\tOrigen: {this.numOrigen}\n\tDestino: {this.numDestino}\n\tPrecio: {this.precio}";
+        return $"Llamada Local\n\tOrigen: {this.numOrigen}\n\tDestino: {this.numDestino}\n\tPrecio: {this.CalcularPrecio()}";
     }
 }

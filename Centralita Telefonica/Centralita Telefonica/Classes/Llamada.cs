@@ -18,5 +18,5 @@ public abstract class Llamada{
     public string getNumOrigen() => this.numOrigen;
     public string getNumDestino() => this.numDestino;
     public double getDuracion() => this.duracion;
-    public abstract double calcularPrecio();
+    public abstract double CalcularPrecio();
 }

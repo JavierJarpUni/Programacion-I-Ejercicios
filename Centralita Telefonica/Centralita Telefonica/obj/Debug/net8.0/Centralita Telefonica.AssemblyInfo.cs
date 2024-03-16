@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Centralita Telefonica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+318156c941e7cde4ff7cfe4261d48bda990409a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba2ded1ca13182909841a7b29c0933f693f75f99")]
 [assembly: System.Reflection.AssemblyProductAttribute("Centralita Telefonica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Centralita Telefonica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
