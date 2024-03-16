@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Universidad\\Programacion I\\Ejemplos De Herencia\\Formas\\Formas.csproj": {}
+    "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejemplos De Herencia\\Formas\\Formas.csproj": {}
   },
   "projects": {
-    "F:\\Universidad\\Programacion I\\Ejemplos De Herencia\\Formas\\Formas.csproj": {
+    "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejemplos De Herencia\\Formas\\Formas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Universidad\\Programacion I\\Ejemplos De Herencia\\Formas\\Formas.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejemplos De Herencia\\Formas\\Formas.csproj",
         "projectName": "Formas",
-        "projectPath": "F:\\Universidad\\Programacion I\\Ejemplos De Herencia\\Formas\\Formas.csproj",
-        "packagesPath": "C:\\Users\\XPS\\.nuget\\packages\\",
-        "outputPath": "F:\\Universidad\\Programacion I\\Ejemplos De Herencia\\Formas\\obj\\",
+        "projectPath": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejemplos De Herencia\\Formas\\Formas.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejemplos De Herencia\\Formas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

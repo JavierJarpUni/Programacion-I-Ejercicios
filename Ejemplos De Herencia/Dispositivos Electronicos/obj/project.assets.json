@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\XPS\\.nuget\\packages\\": {}
+    "C:\\Users\\victo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Universidad\\Programacion I\\Ejemplos De Herencia\\Dispositivos Electronicos\\Dispositivos Electronicos.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejemplos De Herencia\\Dispositivos Electronicos\\Dispositivos Electronicos.csproj",
       "projectName": "Dispositivos Electronicos",
-      "projectPath": "F:\\Universidad\\Programacion I\\Ejemplos De Herencia\\Dispositivos Electronicos\\Dispositivos Electronicos.csproj",
-      "packagesPath": "C:\\Users\\XPS\\.nuget\\packages\\",
-      "outputPath": "F:\\Universidad\\Programacion I\\Ejemplos De Herencia\\Dispositivos Electronicos\\obj\\",
+      "projectPath": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejemplos De Herencia\\Dispositivos Electronicos\\Dispositivos Electronicos.csproj",
+      "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejemplos De Herencia\\Dispositivos Electronicos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

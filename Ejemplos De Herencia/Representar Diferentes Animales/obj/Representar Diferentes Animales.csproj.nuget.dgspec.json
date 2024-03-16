@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Universidad\\Programacion I\\Ejemplos De Herencia\\Representar Diferentes Animales\\Representar Diferentes Animales.csproj": {}
+    "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejemplos De Herencia\\Representar Diferentes Animales\\Representar Diferentes Animales.csproj": {}
   },
   "projects": {
-    "F:\\Universidad\\Programacion I\\Ejemplos De Herencia\\Representar Diferentes Animales\\Representar Diferentes Animales.csproj": {
+    "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejemplos De Herencia\\Representar Diferentes Animales\\Representar Diferentes Animales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Universidad\\Programacion I\\Ejemplos De Herencia\\Representar Diferentes Animales\\Representar Diferentes Animales.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejemplos De Herencia\\Representar Diferentes Animales\\Representar Diferentes Animales.csproj",
         "projectName": "Representar Diferentes Animales",
-        "projectPath": "F:\\Universidad\\Programacion I\\Ejemplos De Herencia\\Representar Diferentes Animales\\Representar Diferentes Animales.csproj",
-        "packagesPath": "C:\\Users\\XPS\\.nuget\\packages\\",
-        "outputPath": "F:\\Universidad\\Programacion I\\Ejemplos De Herencia\\Representar Diferentes Animales\\obj\\",
+        "projectPath": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejemplos De Herencia\\Representar Diferentes Animales\\Representar Diferentes Animales.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victo\\Documents\\Universidad\\Programacion I\\Ejemplos De Herencia\\Representar Diferentes Animales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
