@@ -1,0 +1,15 @@
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\bin\Debug\net8.0\Centralita Telefonica.exe
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\bin\Debug\net8.0\Centralita Telefonica.deps.json
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\bin\Debug\net8.0\Centralita Telefonica.runtimeconfig.json
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\bin\Debug\net8.0\Centralita Telefonica.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\bin\Debug\net8.0\Centralita Telefonica.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.AssemblyInfo.cs
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.sourcelink.json
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\obj\Debug\net8.0\refint\Centralita Telefonica.dll
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.genruntimeconfig.cache
+C:\Users\victo\Documents\Universidad\Programacion I\Centralita Telefonica\Centralita Telefonica\obj\Debug\net8.0\ref\Centralita Telefonica.dll

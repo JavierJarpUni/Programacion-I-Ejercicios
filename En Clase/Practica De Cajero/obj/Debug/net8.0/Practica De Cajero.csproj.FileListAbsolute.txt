@@ -1,0 +1,15 @@
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\bin\Debug\net8.0\Practica De Cajero.exe
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\bin\Debug\net8.0\Practica De Cajero.deps.json
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\bin\Debug\net8.0\Practica De Cajero.runtimeconfig.json
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\bin\Debug\net8.0\Practica De Cajero.dll
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\bin\Debug\net8.0\Practica De Cajero.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\obj\Debug\net8.0\Practica De Cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\obj\Debug\net8.0\Practica De Cajero.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\obj\Debug\net8.0\Practica De Cajero.AssemblyInfo.cs
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\obj\Debug\net8.0\Practica De Cajero.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\obj\Debug\net8.0\Practica De Cajero.sourcelink.json
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\obj\Debug\net8.0\Practica De Cajero.dll
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\obj\Debug\net8.0\refint\Practica De Cajero.dll
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\obj\Debug\net8.0\Practica De Cajero.pdb
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\obj\Debug\net8.0\Practica De Cajero.genruntimeconfig.cache
+C:\Users\victo\Documents\Universidad\Programacion I\En Clase\Practica De Cajero\obj\Debug\net8.0\ref\Practica De Cajero.dll
