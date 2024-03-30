@@ -1,0 +1,15 @@
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\bin\Debug\net8.0\Tarifa De Bus.exe
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\bin\Debug\net8.0\Tarifa De Bus.deps.json
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\bin\Debug\net8.0\Tarifa De Bus.runtimeconfig.json
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\bin\Debug\net8.0\Tarifa De Bus.dll
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\bin\Debug\net8.0\Tarifa De Bus.pdb
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\obj\Debug\net8.0\Tarifa De Bus.GeneratedMSBuildEditorConfig.editorconfig
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\obj\Debug\net8.0\Tarifa De Bus.AssemblyInfoInputs.cache
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\obj\Debug\net8.0\Tarifa De Bus.AssemblyInfo.cs
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\obj\Debug\net8.0\Tarifa De Bus.csproj.CoreCompileInputs.cache
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\obj\Debug\net8.0\Tarifa De Bus.sourcelink.json
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\obj\Debug\net8.0\Tarifa De Bus.dll
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\obj\Debug\net8.0\refint\Tarifa De Bus.dll
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\obj\Debug\net8.0\Tarifa De Bus.pdb
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\obj\Debug\net8.0\Tarifa De Bus.genruntimeconfig.cache
+F:\Universidad\Programacion I\Problemas\En Clase\Tarifa De Bus\obj\Debug\net8.0\ref\Tarifa De Bus.dll

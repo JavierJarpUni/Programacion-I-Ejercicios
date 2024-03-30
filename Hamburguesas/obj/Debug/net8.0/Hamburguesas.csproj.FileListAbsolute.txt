@@ -1,0 +1,15 @@
+F:\Universidad\Programacion I\Problemas\Hamburguesas\bin\Debug\net8.0\Hamburguesas.exe
+F:\Universidad\Programacion I\Problemas\Hamburguesas\bin\Debug\net8.0\Hamburguesas.deps.json
+F:\Universidad\Programacion I\Problemas\Hamburguesas\bin\Debug\net8.0\Hamburguesas.runtimeconfig.json
+F:\Universidad\Programacion I\Problemas\Hamburguesas\bin\Debug\net8.0\Hamburguesas.dll
+F:\Universidad\Programacion I\Problemas\Hamburguesas\bin\Debug\net8.0\Hamburguesas.pdb
+F:\Universidad\Programacion I\Problemas\Hamburguesas\obj\Debug\net8.0\Hamburguesas.GeneratedMSBuildEditorConfig.editorconfig
+F:\Universidad\Programacion I\Problemas\Hamburguesas\obj\Debug\net8.0\Hamburguesas.AssemblyInfoInputs.cache
+F:\Universidad\Programacion I\Problemas\Hamburguesas\obj\Debug\net8.0\Hamburguesas.AssemblyInfo.cs
+F:\Universidad\Programacion I\Problemas\Hamburguesas\obj\Debug\net8.0\Hamburguesas.csproj.CoreCompileInputs.cache
+F:\Universidad\Programacion I\Problemas\Hamburguesas\obj\Debug\net8.0\Hamburguesas.sourcelink.json
+F:\Universidad\Programacion I\Problemas\Hamburguesas\obj\Debug\net8.0\Hamburguesas.dll
+F:\Universidad\Programacion I\Problemas\Hamburguesas\obj\Debug\net8.0\refint\Hamburguesas.dll
+F:\Universidad\Programacion I\Problemas\Hamburguesas\obj\Debug\net8.0\Hamburguesas.pdb
+F:\Universidad\Programacion I\Problemas\Hamburguesas\obj\Debug\net8.0\Hamburguesas.genruntimeconfig.cache
+F:\Universidad\Programacion I\Problemas\Hamburguesas\obj\Debug\net8.0\ref\Hamburguesas.dll

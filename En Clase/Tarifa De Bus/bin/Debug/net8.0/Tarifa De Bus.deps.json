@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tarifa De Bus/1.0.0": {
+        "runtime": {
+          "Tarifa De Bus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarifa De Bus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
